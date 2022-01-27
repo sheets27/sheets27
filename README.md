@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheets27
 - 👀 I’m interested in ... microbial ecology and bioinformatics
-- 🌱 I’m currently learning ... comparative genomics and WGS
+- 🌱 I’m currently learning ... comparative genomics and whole genome sequencing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email sheets27@purdue.edu
 
